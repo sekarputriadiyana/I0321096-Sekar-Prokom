@@ -1,0 +1,6 @@
+Nama: Sekar 
+Umur: 19
+Alamat: Surakarta
+Nama: Putri
+Umur: 20
+Alamat: Surakarta
